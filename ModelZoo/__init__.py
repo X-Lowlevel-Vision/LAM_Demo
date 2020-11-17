@@ -1,7 +1,7 @@
 import os
 import torch
 
-MODEL_DIR = '/home/jinjingu/Desktop/Github/IRSaliency/ModelZoo/models'
+MODEL_DIR = '/content/LAM_Demo/ModelZoo/models'
 
 
 NN_LIST = [
